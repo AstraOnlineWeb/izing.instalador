@@ -412,6 +412,8 @@ EOF
 system_success() {
   print_banner
   printf "${GREEN} 💻 Instalação concluída com Sucesso...${NC}"
+  printf "\n\n"
+  printf "${GREEN} Gostou da solução, contribua com o canal da Astra Online: Pix cnpj: 34293557000180 ${NC}"
   printf "${CYAN_LIGHT}";
   printf "\n\n"
   printf "Usuário: admin@izing.io"
