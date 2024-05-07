@@ -54,10 +54,6 @@ sudo ./izing
 
 Tente atualizar o Conector WWebJS whatsapp.js
 
-## Recomendação de VPS boa e barata
-
--  [Powerful cloud VPS & Web hosting.](https://control.peramix.com/?affid=58)
-
 ## Consultoria particular
 
-Para quem gostaria de uma consultoria ou que eu faça instalação pode chamar no whatsapp 48 999416725 (será cobrado por isso)
+Para quem gostaria de uma consultoria ou que eu faça instalação pode chamar no whatsapp 61 996878959 (será cobrado por isso)
